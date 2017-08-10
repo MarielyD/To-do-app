@@ -1,24 +1,14 @@
-# README
+Synopsis
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a to do app to track your tasks
 
-Things you may want to cover:
+Code Example
 
-* Ruby version
+def new
+    @task = Task.new
+  end
 
-* System dependencies
+Motivation
 
-* Configuration
+Application to track tasks
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
